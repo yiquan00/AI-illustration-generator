@@ -1,0 +1,23 @@
+# Illustration.imglab.dev
+
+> 一个专业的AI图片生成平台，专注于Notion风格的插画和图标生成，提供简洁、现代、富有创意的视觉内容，帮助用户快速创建符合Notion设计风格的独特插图。
+
+我们致力于为用户提供简单易用的AI图片生成服务，特别擅长生成Notion风格的插画和图标。平台支持多种Notion设计元素，包括简约线条、柔和色彩、扁平化设计等风格，让您的文档和项目展示更加专业和美观。
+
+## 核心内容
+- [探索](https://illustration.imglab.dev/explore)：浏览和发现各种Notion风格的AI生成图片作品
+- [图库](https://illustration.imglab.dev/gallery)：精选的高质量Notion风格图片集合
+
+## 常用资源
+- [价格方案](https://illustration.imglab.dev/pricing)：了解我们的订阅计划和价格
+- [隐私政策](https://illustration.imglab.dev/privacy-policy)：了解我们的数据保护政策
+
+## 特色功能
+- [Notion风格生成](https://illustration.imglab.dev/explore)：使用AI技术生成符合Notion设计风格的图片
+- [图片编辑](https://illustration.imglab.dev/gallery)：在线编辑和优化生成的图片
+- [批量下载](https://illustration.imglab.dev/gallery)：支持批量下载和管理图片
+
+## 使用指南
+- [快速开始](https://illustration.imglab.dev/explore)：如何开始使用我们的服务
+- [最佳实践](https://illustration.imglab.dev/gallery)：使用AI生成Notion风格图片的技巧和建议
+- [常见问题](https://illustration.imglab.dev/explore)：解答用户常见问题 

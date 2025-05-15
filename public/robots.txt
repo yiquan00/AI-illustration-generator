@@ -1,0 +1,30 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/*
+Disallow: /_next/*
+Disallow: /static/*
+Disallow: /admin/*
+Disallow: /private/*
+
+# GPTBot,Claude-Web,Anthropic-AI,PerplexityBot,GoogleOther,DuckAssistBot
+User-agent: GPTBot,Claude-Web,Anthropic-AI,PerplexityBot,GoogleOther,DuckAssistBot
+Allow: /
+Allow: /explore
+Allow: /gallery
+Allow: /pricing
+Allow: /privacy-policy
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /api/*
+Disallow: /_next/*
+Disallow: /static/*
+Disallow: /admin/*
+Disallow: /private/*
+Disallow: /user-content/*
+
+# Host
+Host: https://illustration.imglab.dev
+
+# Sitemaps
+Sitemap: https://illustration.imglab.dev/sitemap.xml
